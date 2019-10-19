@@ -1,2 +1,3 @@
 # Excel_Kickstarter_Analysis
-My Excel HW
+
+Analyze a dataset consisting of 4,000 crowdfunding projects to discover hidden trends.
