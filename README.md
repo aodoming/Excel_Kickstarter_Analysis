@@ -1,3 +1,18 @@
-# Excel_Kickstarter_Analysis
+## DESCRIPTION
 
-Analyze a dataset consisting of 4,000 crowdfunding projects to discover hidden trends.
+### SITUATION/TASK
+
+  
+#### CHALLENGE
+
+
+### APPROACH
+
+
+### RESULTS
+
+### THINGS LEARNED
+
+
+### SOFTWARE/TOOLS/LIBRARIES
+Excel     
