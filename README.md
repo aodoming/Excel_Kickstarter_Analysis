@@ -10,4 +10,7 @@ Using Excel to organize, sort and analyze CrowdFunding Data to determine whether
 * Select the "Category and Subcategory" column.
 * Copy the column using the keyboard shortcut Command + C (Mac) or CTRL+C (Windows).
 * Paste the data into the next empty column using the keyboard shortcut Command + V (Mac) or CTRL+V (Windows).
+* Click the Data tab.
+* Click the “Text to Columns” button.
+
 
