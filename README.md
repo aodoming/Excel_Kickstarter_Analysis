@@ -17,6 +17,9 @@ Using Excel to organize, sort and analyze CrowdFunding Data to determine whether
 * Select “Delimiter” and click “Next.”
 * Uncheck the “Tab” box and check “Other.”
 * Place a backslash ( / ) in the box, then click “Next.”
+* Select “Text” from the “Column data format.”
+* Click "Finish."
+
 
 
 
