@@ -25,6 +25,8 @@ Using Excel to organize, sort and analyze CrowdFunding Data to determine whether
 
 ![](https://github.com/aodoming/Excel_Kickstarter_Analysis_ADominguez/blob/master/pics/outcomes.png)
 
+
+
 ![](https://github.com/aodoming/Excel_Kickstarter_Analysis_ADominguez/blob/master/pics/outcomes2.png)
 
 
