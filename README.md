@@ -29,5 +29,7 @@ Using Excel to organize, sort and analyze CrowdFunding Data to determine whether
 
 ![](https://github.com/aodoming/Excel_Kickstarter_Analysis_ADominguez/blob/master/pics/outcomes2.png)
 
+### THINGS LEARNED
+* Import data into a table for analysis.
 
 
