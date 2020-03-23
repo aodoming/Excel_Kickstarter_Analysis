@@ -12,5 +12,9 @@ Using Excel to organize, sort and analyze CrowdFunding Data to determine whether
 * Paste the data into the next empty column using the keyboard shortcut Command + V (Mac) or CTRL+V (Windows).
 * Click the Data tab.
 * Click the “Text to Columns” button.
+* The "Convert Text to Columns Wizard" appears. 
+* Inside the "Convert Text to Columns Wizard:"
+* Select “Delimiter” and click “Next.”
+
 
 
