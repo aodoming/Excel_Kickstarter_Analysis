@@ -33,6 +33,9 @@ Using Excel to organize, sort and analyze CrowdFunding Data to determine whether
 * Import data into a table for analysis.
 * Apply filters, conditional formatting, and formulas.
 * Generate and interpret pivot tables.
+* Calculate summary statistics such as measures of central tendency, standard deviation, and variance.
+* Characterize data to identify outliers in datasets.
+* Perform an Excel analysis with visualizations.
 
 
 
