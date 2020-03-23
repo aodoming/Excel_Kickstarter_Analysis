@@ -37,5 +37,5 @@ Using Excel to organize, sort and analyze CrowdFunding Data to determine whether
 * Characterize data to identify outliers in datasets.
 * Perform an Excel analysis with visualizations.
 
-
-
+### SOFTWARE/TOOLS/LIBRARIES
+Advanced Excel  
