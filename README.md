@@ -3,3 +3,4 @@ Using Excel to organize, sort and analyze CrowdFunding Data to determine whether
 
 ### SITUATION/TASK
 * Use filters and Excel formula to create new datasets.
+* Create visualizations using Excel charts and pivot tables.
