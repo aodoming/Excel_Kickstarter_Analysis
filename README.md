@@ -15,6 +15,9 @@ Using Excel to organize, sort and analyze CrowdFunding Data to determine whether
 * The "Convert Text to Columns Wizard" appears. 
 * Inside the "Convert Text to Columns Wizard:"
 * Select “Delimiter” and click “Next.”
+* Uncheck the “Tab” box and check “Other.”
+* Place a backslash ( / ) in the box, then click “Next.”
+
 
 
 
